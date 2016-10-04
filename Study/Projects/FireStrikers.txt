@@ -1,0 +1,8 @@
+5 pages
+
+	 - Home
+	 - Services
+	 - Tournaments
+	 - Movies
+	 - Contact
+

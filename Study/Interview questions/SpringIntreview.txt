@@ -1,0 +1,60 @@
+DI
+Spring Bean Factory
+ApplicationContext and webContext
+beanfactory and applicationContext
+WebContext
+Bean Inheritance
+Merge attribute in bean inheritance
+Types of DI
+Reference bean
+Ref and IdRef
+Innerbean, alais and Idref
+Initialize  a collection
+Autowiring
+Bean scopes
+ApplicationContentaware 
+beanNameAware
+Life cycle of a bean - Important
+BeanPostPocessor
+BeanFactoryPostprocesssor
+@required Annotiation
+@autowired Annotaion
+<context:annotation-config/> 
+JSR 250 annotations
+@PostConstruct and @PreDestroy 
+Component and stereo type 
+<context:component-scan />
+@component, @Service, @repository and @Controller
+ResourceBundleMessageSource
+Event handler - Event publisher, Event listener, Event
+Aspect oriented Programming
+Cross cutting concerns 
+Types of aspects
+Wild cards and Pointcuts
+Within and args pointcuts and Using && operator in expression
+JoinPoints
+Gettarget() in joinppoints
+ProceedingJoinPoint 
+Diff bet JoinPoint and Proceeding JoinPoint
+AOP Using Annotation and XML
+JDBC Template and Hibernate Template - - Important
+RowMapper and BeanPropertyRowMapper
+NamedParameterJDBCTemplate 
+SimpleJdbcTemplate
+DAO Support  classes
+Hibernate Spring tutorial
+@Repository in HibernateTemplate
+
+
+
+ 
+
+--------------------------
+
+Mapping multiple viewResolver - Spring Tiles
+Diff between <context:component-scan> and <mvc:annotation-driven/>
+
+Errors in the request page
+
+
+
